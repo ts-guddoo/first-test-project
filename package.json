@@ -1,0 +1,23 @@
+{
+  "name": "first-test-project",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ts-guddoo/first-test-oroject.git"
+  },
+  "keywords": [
+    "test",
+    "project"
+  ],
+  "author": "Guddoo Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ts-guddoo/first-test-oroject/issues"
+  },
+  "homepage": "https://github.com/ts-guddoo/first-test-oroject#readme"
+}
